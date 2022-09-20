@@ -1,24 +1,25 @@
-# Ahmed Khaled
+# <center>Ahmed Khaled<center/>
+ <center><b> Machine Learning Engineer Intern | Junior <b/><center/> <br>
+ <center><b>Software Engineer Intern | Junior<b/> <center/>
 
-## Machine Learning Engineer Intern | Junior
-## Software Engineer Intern | Junior
-
-| Gmail → ak.4199153@gmail.com | LinkedIn | Kaggle |
-| --- | --- | --- |
-| WhatsApp → +2 01206423325 | Github | Upwork |
-| +2 01550366775 | Youtube Channel | Leetcode |
+|   |   |    |
+|:---|:---:|:---:|
+| Gmail → ak.4199153@gmail.com| [LinkedIn](https://www.linkedin.com/in/ahmed-khaled-986255191/) | [Kaggle](https://www.kaggle.com/ahmedkhaledsaber) |
+| WhatsApp → +2 01206423325 | [Github](https://github.com/Ahmed-Khaled-1271999) | [Upwork](Upwork) |
+| +2 01550366775 | [Youtube Channel](https://www.youtube.com/channel/UCQv0vTUdXxcWd3uOdsGjgGg) | [Leetcode](https://leetcode.com/profile/account/) |
+| ___________________________________|__________________________________| ___________________________________
 
 ## Experience
 
 - Machine Learning Engineer @Upwork
-Looking to land my first gig
+	- Looking to land my first gig
 - Open-Source Participant @GSSOC22
-Enrich ML-Capsule Massive Content by providing model performance Optimization Techniques
+	- Enrich ML-Capsule Massive Content by providing model performance Optimization Techniques
 
 ## Skills Grid
-
+|   |   |    |     |        |    	| 		| 
+|:---|:---:|:---:| :---:| :---:| :---:| :---:|
 | Tools | git / Github | Emacs/Vim | Vagrant |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Programming Languages | C / C++  | Assembly | Python | Java | Prolog |
 | Technologies | Functional Prog. | OOP | Database | Design Patterns |  |
 | Theory | Probability | Computation | Linear Algebra | Relational Algebra | Learning From Data |
@@ -30,7 +31,6 @@ Enrich ML-Capsule Massive Content by providing model performance Optimization Te
 | Languages | Arabic-native | English-Excellent |  |  |  |
 
 ---
-
 ## Competitions / Scholarships / Tracks
 
 - ITI - AI Summer Training. Certified                                      Aug     2022 - Sep 2022
@@ -87,7 +87,3 @@ ALX - Full Stack Software Engineering School
 # Activities
 
 Develop Online Content. | Writing Essays occasionally. on my LinkedIn/Youtube
-
----
-
-##
