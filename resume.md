@@ -1,7 +1,7 @@
 # Ahmed Khaled
 
 ## Machine Learning Engineer Intern | Junior
-                              Software Engineer Intern | Junior
+## Software Engineer Intern | Junior
 
 | Gmail → ak.4199153@gmail.com | LinkedIn | Kaggle |
 | --- | --- | --- |
